@@ -14,7 +14,7 @@
     STIG-ID         : WN11-CC-000285
 
 .TESTED ON
-    Date(s) Tested  : 2026-01-20
+    Date(s) Tested  : 2026-01-22
     Tested By       : Jacob King
     Systems Tested  : Windows 11 Pro
     PowerShell Ver. : Windows PowerShell ISE
