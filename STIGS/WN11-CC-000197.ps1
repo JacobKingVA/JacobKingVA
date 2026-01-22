@@ -11,7 +11,7 @@
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
-    STIG-ID         : WN11-AU-000197
+    STIG-ID         : WN11-CC-000197
 
 .TESTED ON
     Date(s) Tested  : 2026-01-22
@@ -22,7 +22,7 @@
 .USAGE
     Apply using PowerShell ISE as an administrator. Script success will be reflected in the registry as well as in successful compliance scans.
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN11-AU-000197).ps1 
+    PS C:\> .\__remediation_template(STIG-ID-WN11-CC-000197).ps1 
 #>
 
 # Requires administrative privileges
