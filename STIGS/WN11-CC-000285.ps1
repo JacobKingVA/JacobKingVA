@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the Remote Desktop Session Host must require secure RPC communications.
+    This PowerShell script ensures that the Remote Desktop Session Host MUST require secure RPC communications.
 
 .NOTES
     Author          : Jacob King
