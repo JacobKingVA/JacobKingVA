@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and IT and I love tackling complex challenges
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JacobKingVA/Threat-Hunting-Scenario-Tor)**
+- **[Threat Hunting Scenario (CorpHealth: Traceback)](https://github.com/JacobKingVA/Threat-Hunting-Scenario-CorpHealth-Traceback)**
 
 <hr/>
 
