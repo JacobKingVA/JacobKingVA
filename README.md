@@ -13,6 +13,10 @@ I'm passionate about cybersecurity and IT and I love tackling complex challenges
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JacobKingVA/Threat-Hunting-Scenario-Tor)**
 - **[Threat Hunting Scenario (CorpHealth: Traceback)](https://github.com/JacobKingVA/Threat-Hunting-Scenario-CorpHealth-Traceback)**
 
+## 💻 IT Operations Projects
+
+- **[Virtualized Corporate Network to Provision/Deprovision Accounts Using Active Directory & Applying Group Policy Objects](https://github.com/JacobKingVA/Active-Directory-Group-Policy-Lab)**
+
 <hr/>
 
 ## 🤳 Connect With Me
